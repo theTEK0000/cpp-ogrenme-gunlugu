@@ -5,7 +5,7 @@ C++ öğrenme yolculuğumun günlüğü. Her gün bir konu öğrenip buraya kıs
 ## 📅 Yol Haritası
 
 ### Hafta 1 — Temeller
-- [ ] Gün 1: main fonksiyonu ve program yapısı
+- [x] Gün 1: main fonksiyonu ve program yapısı
 - [ ] Gün 2: Değişkenler ve veri tipleri
 - [ ] Gün 3: Girdi ve çıktı (cin, cout)
 - [ ] Gün 4: Operatörler
