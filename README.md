@@ -8,7 +8,7 @@ C++ öğrenme yolculuğumun günlüğü. Her gün bir konu öğrenip buraya kıs
 - [x] Gün 1: main fonksiyonu ve program yapısı
 - [x] Gün 2: Değişkenler ve veri tipleri
 - [x] Gün 3: Girdi ve çıktı (cin, cout)
-- [ ] Gün 4: Operatörler
+- [x] Gün 4: Operatörler
 - [ ] Gün 5: Koşullar (if, else, switch)
 - [ ] Gün 6: Döngüler (for, while)
 - [ ] Gün 7: Hafta 1 tekrarı
