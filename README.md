@@ -10,7 +10,7 @@ C++ öğrenme yolculuğumun günlüğü. Her gün bir konu öğrenip buraya kıs
 - [x] Gün 3: Girdi ve çıktı (cin, cout)
 - [x] Gün 4: Operatörler
 - [x] Gün 5: Koşullar (if, else, switch)
-- [ ] Gün 6: Döngüler (for, while)
+- [x] Gün 6: Döngüler (for, while)
 - [ ] Gün 7: Hafta 1 tekrarı
 
 ### Hafta 2 — Fonksiyonlar ve Veriler
